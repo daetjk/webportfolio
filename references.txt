@@ -1,0 +1,15 @@
+ecommerce pic
+<a href="https://storyset.com/business">Business illustrations by Storyset</a>
+
+blog pic
+<a href="https://storyset.com/internet">Internet illustrations by Storyset</a>
+
+backgroud image
+Image by <a href="https://pixabay.com/users/emrenebiler-3149068/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1677250">Emre Nebiler</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1677250">Pixabay</a>
+
+icons
+<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/gitlab" title="gitlab icons">Gitlab icons created by Freepik - Flaticon</a>
