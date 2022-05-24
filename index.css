@@ -89,3 +89,15 @@
     background-color: rgba(0, 0, 0, 0.03);
     border-top: 1px solid rgba(0, 0, 0, 0.125);
   }
+
+.ml-n1 {
+    margin-left: -.75rem !important;
+}
+
+.mr-n1 {
+    margin-right: 5rem !important;
+}
+
+.mr-n2{
+    margin-right: 3rem !important;
+}
